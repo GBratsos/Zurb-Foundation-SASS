@@ -32,7 +32,7 @@
 ## Sass Resources
 * Learn about [SASS](http://sass-lang.com/guide).
 * Tutorial about [SASS](http://leveluptuts.com/tutorials/sass-tutorials).
-* Learn about [Twitter Bootstrap](http://getbootstrap.com/css/).
+* Learn about [Zurb Foundation](http://foundation.zurb.com/).
 
 ## Recommended SASS compiler
 You can use [Koala app](http://koala-app.com/).
