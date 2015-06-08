@@ -17,7 +17,7 @@
 * cd into the directory.
 * Run `bower install` to install Zurb Foundation.
 * Run `compass watch` to compile the SASS files.
-* Run `compass watch --output-style=compressed` to compile to minified CSS.
+* Run `compass watch --output-style=compressed` to compile to minified CSS (or edit config.rb).
 
 ## Updating
 * Run `bower update` to update Zurb Foundation.
