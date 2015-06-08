@@ -1,5 +1,7 @@
 # Zurb Foundation Sass Template
 
+![Zurb Foundation Sass Template](website/images/zurbsass.png)
+
 ## Installation
 1. Download and install [NodeJS](https://nodejs.org/).
 2. Download and install [Ruby](https://www.ruby-lang.org/en/).
