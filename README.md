@@ -3,9 +3,10 @@
 ## Installation
 1. Download and install [NodeJS](https://nodejs.org/).
 2. Download and install [Ruby](https://www.ruby-lang.org/en/).
-3. Open command line and type `gem install sass`.
-4. Clone or Download project straight from GitHub.
-5. Extract the zip file and start working.
+3. Open command line and type `npm install bower`.
+4. Open command line and type `gem install sass`.
+5. Clone or Download project straight from GitHub.
+6. Extract the zip file and start working.
 
 ## Updates
 * 1.0.0, 6/8/2015 - Initial release.
@@ -13,10 +14,9 @@
 ## Directions
 * cd into the directory.
 * Run `bower install` to install Zurb Foundation.
-* Run `gulp watch` to watch and compile the SASS files.
+* Run `compass watch` to watch and compile the SASS files.
 
 ## Updating
-
 * Run `bower update` to update Zurb Foundation.
 
 ## File Tree Explaination
