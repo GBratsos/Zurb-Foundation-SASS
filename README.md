@@ -5,12 +5,13 @@
 ## Installation
 1. Download and install [NodeJS](https://nodejs.org/).
 2. Download and install [Ruby](https://www.ruby-lang.org/en/).
-3. Open command line and type `npm install bower`.
+3. Open command line and type `npm install`.
 4. Open command line and type `gem install sass`.
 5. Clone or Download project straight from GitHub.
 6. Extract the zip file and start working.
 
 ## Updates
+* 2.0.0, 6/24/2015 - Added uncss, autoprefix, minify and auto-update to HTML files.
 * 1.0.0, 6/8/2015 - Initial release.
 
 ## Directions
@@ -18,9 +19,14 @@
 * Run `bower install` to install Zurb Foundation.
 * Run `compass watch` to compile the SASS files.
 * Run `compass watch --output-style=compressed` to compile to minified CSS (or edit config.rb).
+* Run `grunt clean` to uncss, autoprefix, minify and auto-update your HTML files.
 
 ## Updating
 * Run `bower update` to update Zurb Foundation.
+
+## Updating configuration
+* At [Gruntfile.js](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/Gruntfile.js) on lines 22 and 52 you can insert your project files in order to automatically get updated with the minified CSS file.
+* At [config.rb](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/config.rb) you can edit the SASS configuration.
 
 ## File Tree Explaination
 * /resoures - contains the SCSS files.
@@ -38,7 +44,6 @@
 You can use [Koala app](http://koala-app.com/).
 
 ## Recommended Text Editor
-
 You can use [Brackets](http://brackets.io/).
 
 Check out some awesome [Plugins](https://github.com/GBratsos/brackets-zurb-foundation) for Brackets text editor.
