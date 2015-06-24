@@ -5,10 +5,9 @@
 ## Installation
 1. Download and install [NodeJS](https://nodejs.org/).
 2. Download and install [Ruby](https://www.ruby-lang.org/en/).
-3. Open command line and type `npm install`.
-4. Open command line and type `gem install sass`.
-5. Clone or Download project straight from GitHub.
-6. Extract the zip file and start working.
+3. Open command line and type `gem install sass`.
+4. Clone or Download project straight from GitHub.
+5. Extract the zip file and start working.
 
 ## Updates
 * 2.0.0, 6/24/2015 - Added uncss, autoprefix, minify and auto-update to HTML files.
@@ -16,6 +15,7 @@
 
 ## Directions
 * cd into the directory.
+* Run `npm install`.
 * Run `bower install` to install Zurb Foundation.
 * Run `compass watch` to compile the SASS files.
 * Run `compass watch --output-style=compressed` to compile to minified CSS (or edit config.rb).
