@@ -1,8 +1,10 @@
 {
-  "name": "foundation-compass-template",
-  "version": "1.0.0",
-  "private": "true",
-  "dependencies": {
-    "foundation": "zurb/bower-foundation"
-  }
+    "name": "Zurb-Foundation-SASS",
+    "version": "1.0.0",
+    "private": "true",
+    "authors": [
+    "George Bratsos <geobratsos@gmail.com>"],
+    "dependencies": {
+        "foundation": "zurb/bower-foundation"
+    }
 }
