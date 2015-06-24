@@ -19,6 +19,8 @@
 * Run `bower install` to install Zurb Foundation.
 * Run `compass watch` to compile the SASS files.
 * Run `compass watch --output-style=compressed` to compile to minified CSS (or edit config.rb).
+
+When finished development
 * Run `grunt clean` to uncss, autoprefix, minify and auto-update your HTML files.
 
 ## Updating
