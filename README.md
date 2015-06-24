@@ -30,6 +30,12 @@ When finished development
 * At [Gruntfile.js](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/Gruntfile.js) on lines 22 and 52 you can insert your project files in order to automatically get updated with the minified CSS file.
 * At [config.rb](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/config.rb) you can edit the SASS configuration.
 
+On new HTML files add these lines of code in order to auto-update with gulp command.
+
+`<!-- build:css stylesheets/app.min.css -->
+    <link rel="stylesheet" href="stylesheets/app.css">
+    <!-- /build -->`
+
 ## File Tree Explaination
 * /resoures - contains the SCSS files.
 * /website - contains the website files (images, fonts, js, css, html).
