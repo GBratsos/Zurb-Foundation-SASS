@@ -40,6 +40,9 @@
 * Tutorial about [SASS](http://leveluptuts.com/tutorials/sass-tutorials).
 * Learn about [Zurb Foundation](http://foundation.zurb.com/).
 
+## CSS Guidelines
+* [CSS Guidelines](http://cssguidelin.es/)
+
 ## Recommended SASS compiler
 You can use [Koala app](http://koala-app.com/).
 
