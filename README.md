@@ -40,7 +40,7 @@ When finished development
 * /website - contains the website files (images, fonts, js, css, html).
 
 ## License
-[MIT License](LICENSE)
+[GPLv3](LICENSE)
 
 ## Sass Resources
 * Learn about [SASS](http://sass-lang.com/guide).
