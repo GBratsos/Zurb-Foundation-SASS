@@ -25,6 +25,7 @@ When finished development
 
 ## Updating
 * Run `bower update` to update Zurb Foundation.
+* Run `bower install package --save` to add things to your development stack.
 
 ## Updating configuration
 * At [Gruntfile.js](https://github.com/GBratsos/Zurb-Foundation-SASS/blob/master/Gruntfile.js) on lines 22 and 52 you can insert your project files in order to automatically get updated with the minified CSS file.
